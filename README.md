@@ -10,7 +10,7 @@
 | 05     | [CPP Module](https://github.com/hleesa/CPP_Module)              | 2023-08-16      | 100        |
 | 04     | [miniRT](https://github.com/hleesa/miniRT)                      | 2023-06-13      | 111        |
 | 04     | NetPractice                                                     | 2023-03-30      | 100        |
-| 03     | [Philosophers](https://github.com/hleesa/Philosophers)          | 2023-03-03      | 125        |
+| 03     | [Philosophers](https://github.com/hleesa/philosopher)          | 2023-03-03      | 125        |
 | 03     | [minishell](https://github.com/hleesa/minishell)                | 2023-03-02      | 116        |
 | 02     | [pipex](https://github.com/hleesa/pipex)                        | 2022-11-21      | 125        |
 | 02     | [fract-ol](https://github.com/hleesa/fract-ol)                  | 2022-09-28      | 125        |
