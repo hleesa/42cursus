@@ -19,6 +19,3 @@
 | 01     | [ft_printf](https://github.com/hleesa/ft_printf)                | 2022-08-06      | 100        |
 | 01     | [get_next_line](https://github.com/hleesa/get_next_line)        | 2022-07-29      | 125        |
 | 00     | [Libft](https://github.com/hleesa/Libft)                        | 2022-07-18      | 125        |
-
-
-각 레포지토리에는 프로젝트에 대한 자세한 설명과 구현에 대한 정보가 포함되어 있습니다.
